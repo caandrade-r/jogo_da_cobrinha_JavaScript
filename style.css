@@ -1,0 +1,10 @@
+body{
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center; /* alihna horizontalmente no centro*/
+  align-items: center; /* alinha verticalmente no centro*/
+  flex-direction: column; /*deixa os elementos em coluna*/
+  color:#088A29;
+
+}
